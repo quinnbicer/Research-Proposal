@@ -1,4 +1,8 @@
 # Research-Proposal
+<!doctype html>
+<head>
+	<title>Research Proposal</title>
+</head>
 <body>
  <div>
   <h1>1. Introduction</h1>
