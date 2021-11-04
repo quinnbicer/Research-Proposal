@@ -1,7 +1,7 @@
 # Research-Proposal
-<body>
 <!doctype html>
-<head>Research Proposal</head>
+<head></head>
+<body>
  <div>
   <h1>1. Introduction</h1>
     <p>In this research project, I plan to study the effects that heightened Islamophobia resulting from the 9/11 attacks and ongoing wars in the Middle East has had on the linguistic expression of Arabic-speaking populations in the United States. This research project is largely rooted in the field of sociolinguistics, which examines the effects of society on language. This project will specifically examine the effects of Islamophobic discrimination on Arabic language expression and language preservation through generations. It will focus on issues of societal pressure, Islamophobic violence, and policies relating to the Arabic language (and “foreign languages” more generally) as they affect the linguistic expression of Arabic speakers.<br>
