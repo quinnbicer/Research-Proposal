@@ -1,7 +1,9 @@
 # Research-Proposal
-<body>
-<!doctype html>
+
+<!doctype>
+<html>
 <head></head>
+<body>
  <div>
   <h1>1. Introduction</h1>
     <p>In this research project, I plan to study the effects that heightened Islamophobia resulting from the 9/11 attacks and ongoing wars in the Middle East has had on the linguistic expression of Arabic-speaking populations in the United States. This research project is largely rooted in the field of sociolinguistics, which examines the effects of society on language. This project will specifically examine the effects of Islamophobic discrimination on Arabic language expression and language preservation through generations. It will focus on issues of societal pressure, Islamophobic violence, and policies relating to the Arabic language (and “foreign languages” more generally) as they affect the linguistic expression of Arabic speakers.<br>
@@ -28,3 +30,4 @@ The benefits of these choices are that interviews give participants more freedom
 Drawbacks of my methodological choices include the subjectivity of interviews, the unverifiability of many people’s personal experiences and memories, and the potential for the interviewer to frame their questions in ways that guide participants to a pre-assumed conclusion. Another potential issue that could arise is the varied English abilities that participants may have, as most of them will know English as a second language. For this reason, it will be important to have a skilled Arabic translator involved in the project for potential clarification of questions and answers. While interviews are a very subjective way of data collection, as this is a project that will focus in a large part on participants’ own feelings and comfort when expressing themselves linguistically in Arabic, I believe that this is not necessarily an entirely negative feature. The place where I could see this potentially arising as a problem a bit more could be in participants’ reporting of their own linguistic habits. As for the potential for the interviewer to frame questions to fit their own expectations, I intend to come into this project without predetermined expectations, ask colleagues to look over my interview questions before using them, and (if participants allow it) to make interviews available to the public for increased transparency.</p>
  </div>
 </body>
+</html>
