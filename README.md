@@ -1,6 +1,5 @@
 # Research-Proposal
-
-<!doctype>
+<!DOCTYPE>
 <html>
 <head></head>
 <body>
