@@ -30,11 +30,11 @@ H1 {
 }
 
 #header {
-    height: 75px;
+    height: 100px;
     background: #ECD4FF;
     border-radius: 10px;
     border: 1px solid #d8c0eb;
-    margin: 5px;
+    margin: 10px;
 font-family: Courier New, Monaco, Helvetica, sans-serif;
     font-size: 20px;
     color:#333
