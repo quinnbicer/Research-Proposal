@@ -14,11 +14,11 @@ P.blocktext {
     width: 8em
 }
 
-H1 {
+h1 {
 	text-align: center 
 }
 
-H2 {
+h3 {
 	text-align: center
 }
 
@@ -40,7 +40,7 @@ H2 {
     border: 1px solid #d8c0eb;
     margin: 5px;
 font-family: Courier New, Monaco, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     color:#333
 }
 
