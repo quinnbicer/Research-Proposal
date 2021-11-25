@@ -15,7 +15,12 @@ P.blocktext {
 }
 
 h1 {
+	font-family: Courier New, Monaco, Helvetica, sans-serif;
 	text-align: center 
+}
+
+h2 {
+	font-family: Courier New, Monaco, Helvetica, sans-serif;
 }
 
 h3 {
