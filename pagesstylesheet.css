@@ -18,6 +18,10 @@ H1 {
 	text-align: center 
 }
 
+H2 {
+	text-align: center
+}
+
 #wrapper {
     margin: 0 auto;
     width: 1000px;
@@ -30,11 +34,11 @@ H1 {
 }
 
 #header {
-    height: 100px;
+    height: 300px;
     background: #ECD4FF;
     border-radius: 10px;
     border: 1px solid #d8c0eb;
-    margin: 10px;
+    margin: 5px;
 font-family: Courier New, Monaco, Helvetica, sans-serif;
     font-size: 20px;
     color:#333
