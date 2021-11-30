@@ -39,7 +39,8 @@ h3 {
 }
 
 #header {
-    height: 150px;
+    height: 100px;
+    line-height: 100px;
     background: #ECD4FF;
     border-radius: 10px;
     border: 1px solid #d8c0eb;
