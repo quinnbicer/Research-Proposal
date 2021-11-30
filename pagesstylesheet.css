@@ -25,7 +25,8 @@ h2 {
 }
 
 h3 {
-	text-align: center
+	text-align: center;
+	font-family: Courier New, Monaco, Helvetica, sans-serif
 }
 
 #wrapper {
