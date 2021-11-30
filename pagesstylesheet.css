@@ -34,9 +34,17 @@ h3 {
 }
 
 .header{
-	padding: 60px;
-	text-align: center;
-	background: #ECDFF0;
+	 height: 200px;
+    line-height: 200px;
+    background: #ECD4FF;
+    border-radius: 10px;
+    border: 1px solid #d8c0eb;
+    margin: 5px;
+font-family: Courier New, Monaco, Helvetica, sans-serif;
+    font-size: 15px;
+    color:#333;
+	text-align: center
+
 }
 	
 .ribbon {
