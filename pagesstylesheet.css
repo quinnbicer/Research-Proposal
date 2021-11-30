@@ -32,23 +32,76 @@ h3 {
     width: 1000px;
 }
 
-#headerwrap {
-    width: 1000px;
-    float: left;
-    margin: 0 auto;
+.ribbon {
+     width: 600px;
+     position: absolute;
+     left: 50%;
+     margin-left: -300px;
+     text-align: center;
+     font-size: 32px !important;
+     background: #ECD4FF;
+     background: linear-gradient(to bottom, #ECD4FF, #DF78FF);
+     font-family: 'Helvetica Neue',Helvetica, sans-serif;
 }
 
-#header {
-    height: 200px;
-    line-height: 200px;
-    background: #ECD4FF;
-    border-radius: 10px;
-    border: 1px solid #d8c0eb;
-    margin: 5px;
-font-family: Courier New, Monaco, Helvetica, sans-serif;
-    font-size: 15px;
-    color:#333;
-	text-align: center
+.ribbon p {
+     font-size: 19px !important;
+     color: #000000;
+     text-shadow: #D699FF 0 1px 0;
+     margin:0px;
+     padding: 2px 10px;
+}
+
+.ribbon:before, .ribbon:after {
+     content: '';
+     position: absolute;
+     display: block;
+     bottom: -1em;
+     border: 1.5em solid #E0B6E0;
+     z-index: -1;
+}
+
+.ribbon:before {
+     left: -2em;
+     border-right-width: 1.5em;
+     border-left-color: transparent;
+}
+
+.ribbon:after {
+     right: -2em;
+     border-left-width: 1.5em;
+     border-right-color: transparent;
+}
+
+.ribbon .ribbon-content:before, .ribbon .ribbon-content:after {
+     border-color: #AE5EC7 transparent transparent transparent;
+     position: absolute;
+     display: block;
+     border-style: solid;
+     bottom: -1em;
+     content: '';
+}
+
+.ribbon .ribbon-content:before {
+     left: 0;
+     border-width: 1em 0 0 1em;
+}
+
+.ribbon .ribbon-content:after {
+     right: 0;
+     border-width: 1em 1em 0 0;
+}
+
+.ribbon-stitches-top {
+     margin-top:2px;
+     border-top: 1px dashed rgba(0, 0, 0, 0.2);
+     box-shadow: 0px 0px 2px rgba(255, 255, 255, 0.5);
+}
+
+.ribbon-stitches-bottom {
+     margin-bottom:2px;
+     border-top: 1px dashed rgba(0, 0, 0, 0.2);
+     box-shadow: 0px 0px 2px rgba(255, 255, 255, 0.3);
 }
 
 #contentwrap {
