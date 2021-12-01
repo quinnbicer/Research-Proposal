@@ -45,7 +45,12 @@ font-family: Courier New, Monaco, Helvetica, sans-serif;
     color:#333;
 	text-align: center
 }
-	
+
+.non-semantic-protector {
+	position: relative;
+	z-index: 1;
+}
+
 .ribbon {
      width: 350px;
      position: absolute;
