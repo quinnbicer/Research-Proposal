@@ -78,13 +78,13 @@ font-family: Courier New, Monaco, Helvetica, sans-serif;
      position: absolute;
      display: block;
      bottom: -1em;
-     border: 1.5em solid #E0B6E0;
+     border: 2em solid #E0B6E0;
      z-index: -1;
 }
 
 .ribbon:before {
      left: -2em;
-     border-right-width: 1.5em;
+     border-right-width: 2em;
      border-left-color: transparent;
 }
 
