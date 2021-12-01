@@ -83,13 +83,13 @@ font-family: Courier New, Monaco, Helvetica, sans-serif;
 }
 
 .ribbon:before {
-     left: -2em;
+     left: -1.5em;
      border-right-width: 2em;
      border-left-color: transparent;
 }
 
 .ribbon:after {
-     right: -2em;
+     right: -1.5em;
      border-left-width: 1.5em;
      border-right-color: transparent;
 }
@@ -99,18 +99,18 @@ font-family: Courier New, Monaco, Helvetica, sans-serif;
      position: absolute;
      display: block;
      border-style: solid;
-     bottom: -1.5em;
+     bottom: -1em;
      content: '';
 }
 
 .ribbon .ribbon-content:before {
      left: 0;
-     border-width: 1.5em 0 0 1.5em;
+     border-width: 1em 0 0 1em;
 }
 
 .ribbon .ribbon-content:after {
      right: 0;
-     border-width: 1.5em 1.5em 0 0;
+     border-width: 1em 1em 0 0;
 }
 
 .ribbon-stitches-top {
